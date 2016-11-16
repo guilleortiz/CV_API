@@ -1,0 +1,154 @@
+{
+  "basics": {
+    "name": "Guillermo Ortiz Vitali",
+    "label": "Programmer",
+    "picture": "",
+    "email": "ortiz.vitali.guillermo@gmail.com",
+    "phone": "669441446",
+    "website": "https://will-web.herokuapp.com",
+    "summary": "",
+    "location": {
+      "address": "",
+      "postalCode": "28022",
+      "city": "Marid",
+      "countryCode": "España",
+      "region": "Marid"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "Will8Ortiz",
+        "url": "https://twitter.com/will8ortiz"
+      },
+      {
+        "network": "linkedin",
+        "username": "Guillermo Ortiz Vitali",
+        "url": "https://es.linkedin.com/in/guillermo-ortiz-vitali-6ba917103"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Serikat",
+      "position": "Student in practice",
+      "website": "http://www.serikat.es/",
+      "startDate": "2016",
+      "endDate": "2016",
+      "summary": "Implementation, maintenance and extension of OpenCATS application (candidate applicant tracking system) functionalities in php.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [
+    {}
+  ],
+  "education": [
+    {
+      "institution": "Joyfe",
+      "area": "Multiplatform application development",
+      "studyType": "Vocational Degree",
+      "startDate": "2014",
+      "endDate": "2016",
+      "gpa": "aaaaaaaaaaaaaaaaaaaaaaaaa"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Award of Achivement Database Design and Programming with SQL Oracle Academy",
+      "date": "2016",
+      "awarder": "Oracle Academy",
+      "summary": ""
+    },
+    {
+       "title": "Award of Achivement Database Design and Programming with PL/SQL Oracle Academy",
+      "date": "2016",
+      "awarder": "Oracle Academy",
+      "summary": ""
+
+    }
+  ],
+  "publications": [
+    {}
+  ],
+  "skills": [
+    {
+      "name": "Programming languages",
+      "level": "Medium",
+      "keywords": [
+        ".NET (VB)",
+        "C",
+        "Java (JRE & Android)"
+      ]
+
+    },
+    {
+      "name": "Web Development",
+      "level": "Medium",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript",
+        "PHP"
+      ]
+    },
+    {
+      "name": "DB",
+      "level": "Medium",
+      "keywords": [
+        "Oracle",
+        "SQL Server",
+        "PL/SQL",
+        "Access",
+        "MySQL",
+        "SQLite"
+      ]
+    },
+    {
+      "name": "Operating Systems",
+      "level": "Medium",
+      "keywords": [
+        "Windows",
+        "Linux",
+        "Android"
+      ]
+
+    },
+    {
+      "name": "ERP",
+      "level": "Medium",
+      "keywords": [
+        "Navision"
+      ]
+
+    },
+    {
+      "name": "Games",
+      "level": "Medium",
+      "keywords": [
+        "Uity"
+      ]
+
+    }
+
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+       "language": "Inglish",
+      "fluency": "High level"
+    }
+  ],
+  "interests": [
+    {
+      "name": "",
+      "keywords": [
+        ""
+      ]
+    }
+  ],
+  "references": [
+    {}
+  ]
+}
