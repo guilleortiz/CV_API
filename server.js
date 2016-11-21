@@ -27,7 +27,7 @@ app.use(express.static('website'));//to have static files
 
 //----------GET REQUEST 2------------------------
 
-app.get('/all',sendAll);
+app.get('/cv',sendAll);
 
 function sendAll(request,response){
 	var cvFormat=JSON.stringify(cv, null, 4); 
