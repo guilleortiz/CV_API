@@ -31,7 +31,7 @@ app.get('/cv',sendAll);
 
 function sendAll(request,response){
 	var cvFormat=JSON.stringify(cv, null, 4); 
-	response.send(cvFormat); 
+	response.send(cv); 
 
 }
 //----------END GET REQUEST 2------------------------
