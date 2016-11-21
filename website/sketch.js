@@ -8,7 +8,7 @@ function setup() {
 	function submitWord () {
 		
 
-		loadJSON('/all',gotData);
+		loadJSON('/cv',gotData);
 	}
 
 	
