@@ -30,7 +30,7 @@ app.use(express.static('website'));//to have static files
 app.get('/all',sendAll);
 
 function sendAll(request,response){
-	response.send(cv);
+	response.send(JSON.stringify(cv, null, 4); 
 
 }
 //----------END GET REQUEST 2------------------------
