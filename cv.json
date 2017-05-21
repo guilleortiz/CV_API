@@ -1,18 +1,18 @@
 {
   "basics": {
-    "name": "Guillermo Ortiz Vitali",
+    "name": "Guillermo ",
     "label": "Programmer",
     "picture": "",
     "email": "ortiz.vitali.guillermo@gmail.com",
-    "phone": "669441446",
-    "website": "https://will-web.herokuapp.com",
+    "phone": "",
+    "website": "",
     "summary": "",
     "location": {
       "address": "",
-      "postalCode": "28022",
-      "city": "Marid",
-      "countryCode": "España",
-      "region": "Marid"
+      "postalCode": "",
+      "city": "Cordoba",
+      "countryCode": "Cordoba",
+      "region": "Cordoba"
     },
     "profiles": [
       {
@@ -107,8 +107,7 @@
       "level": "Medium",
       "keywords": [
         "Windows",
-        "Linux",
-        "Android"
+        "Linux"
       ]
 
     },
@@ -124,7 +123,7 @@
       "name": "Games",
       "level": "Medium",
       "keywords": [
-        "Uity"
+        "Unity"
       ]
 
     }
